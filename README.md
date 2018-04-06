@@ -8,18 +8,16 @@
     "A graph-based algorithm for the multi-objective optimization of gene regulatory networks"
     European Journal of Operational Research (2018)
 
-    ...
-
 ## Authors
-    * Philippe NGHE
-        ESPCI
-        10 rue Vauquelin, 75005 Paris, France
-        philippe dot nghe at espci dot fr
+* __Philippe NGHE__,
+        ESPCI,
+        *10 rue Vauquelin, 75005 Paris, France* |
+        [ philippe dot nghe at espci dot fr ]
 
-    * Bela Mulder
-        FOM Institute AMOLF
-        Science Park 104, 1098 XG Amsterdam, the Netherlands
-        mulder at amolf dot nl
+* __Bela MULDER__,
+        FOM Institute AMOLF,
+        *Science Park 104, 1098 XG Amsterdam, the Netherlands* |
+        [ mulder at amolf dot nl ]
 
 ## Version
     version 1.0

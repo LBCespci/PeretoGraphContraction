@@ -1,6 +1,6 @@
-#Pareto Graph Contraction Algorithm
+# Pareto Graph Contraction Algorithm
 
-##About
+## About
 
     Python implementation of the Graph Contraction Algorithm described in 
 
@@ -10,24 +10,27 @@
 
     ...
 
-##Authors
-    Philippe NGHE
+## Authors
+    * Philippe NGHE
         ESPCI
         10 rue Vauquelin, 75005 Paris, France
         philippe dot nghe at espci dot fr
 
-    Bela Mulder
+    * Bela Mulder
         FOM Institute AMOLF
         Science Park 104, 1098 XG Amsterdam, the Netherlands
         mulder at amolf dot nl
 
-#Version
+## Version
     version 1.0
 
-##Date
+## Date
     2009-2018
+    
+## Permalink
+    ref on hal.archives-ouvertes.fr : hal-01760120
 
-##License
+## License
     Copyright 2018 Philippe Nghe & Bela Mulder
 
     Licensed under the Apache License, Version 2.0 (the "License");
